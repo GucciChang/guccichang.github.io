@@ -10,7 +10,8 @@ body {
     background: #262626;
     width: 100%;
     box-sizing: border-box;
-} header.wantto {
+}
+.wantto {
     color: #ffffff;
     height : 50px;
     line-height: 50px;
