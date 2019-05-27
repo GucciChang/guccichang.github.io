@@ -22,5 +22,7 @@ body {
     float: right;
 }
 header nav ul{
-    float: right;
+    margin: 0;
+    padding: 0;
+    display: flex;
 }
