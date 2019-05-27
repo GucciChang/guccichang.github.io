@@ -7,16 +7,16 @@ body {
     top: 0;
     left: 0;
     padding: 0 100px;
-    background: #262626;
+    background: #848484;
     width: 100%;
     box-sizing: border-box;
 }
 .wantto {
     color: #ffffff;
-    height : 50px;
+    height: 50px;
     line-height: 50px;
     font-size: 24px;
-    float : left;
+    float: left;
     font-weight: bold;
 } header nav {
     float: right;
