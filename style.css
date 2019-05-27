@@ -11,10 +11,15 @@ body {
     width: 100%;
     box-sizing: border-box;
 } header.hi {
-  color: #fff;
-  height : 50px;
-  line-height: 50px;
-  font-size: 24px;
-  float : left;
-  font-weight: bold;
+    color: #fff;
+    height : 50px;
+    line-height: 50px;
+    font-size: 24px;
+    float : left;
+    font-weight: bold;
+} header nav {
+    float: right;
+}
+header nav ul{
+    float: right;
 }
