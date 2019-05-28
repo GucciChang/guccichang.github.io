@@ -1,3 +1,11 @@
+<script type="text/javascript">
+    $(document).ready(function(){
+      $('.menu-toggle').click(function(){
+        $('nav').toggleClass('active')
+      })
+    })
+</script>
+
 // declare globals
     var money = 20;
     var lunches = 0;
