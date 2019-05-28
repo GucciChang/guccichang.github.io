@@ -47,7 +47,8 @@
     text-decoration: none;
     display: block;
   }
-  header nav ul li a:hover
+  header nav ul li a:hover,
+  header nav ul li a.active
   {
     color: #fff;
     background: #2196f3;
