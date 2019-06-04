@@ -5,8 +5,8 @@ var days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
 var weather = ["Sunny", "Partly Sunny", "Partly Cloudy", "Cloudy", "Raining", "Snowing", "Thunderstorm", "Foggy"];
 
 // set min and max temps
-var maxTemp = 100;
-var minTemp = 0;
+var maxTemp = 130;
+var minTemp = -130;
 
 // cost (to you) of a cup of lemonade
 var lemonadeCost = 0.75;

@@ -107,20 +107,20 @@ header nav ul li a.active
       float: left;
       border: 1px solid black;
       padding: 2px;
-      font-family: sans-serif;
+      font-family: 'ZCOOL KuaiLe', cursive;
       font-size: 12px;
   }
   .Sunny {
-      background-color: skyblue;
+      background-color: #A9F5F2;
   }
   .Raining {
-      background-color: lightgrey;
+      background-color: #D8D8D8;
   }
   .Cloudy {
-      background-color: #eee;
+      background-color: #FAFAFA;
   }
   .Thunderstorm {
-      background-color: #333;
+      background-color: #151515;
       color: #fff;
   }
   #orderForm {
@@ -128,7 +128,7 @@ header nav ul li a.active
       margin: 20px auto;
   }
   #receipt {
-      background-color: #996600;
-      color: yellow;
+      background-color: #994700;
+      color: black;
       padding: 6px;
   }
